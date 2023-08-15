@@ -1,0 +1,20 @@
+h1 {
+    text-align:center;
+    background-color: blueviolet; 
+}
+h3{
+    background-color: aquamarine;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: blueviolet;
+}
